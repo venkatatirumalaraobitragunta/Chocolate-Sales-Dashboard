@@ -3,7 +3,9 @@
 📌 **Project Overview**
 
 This project focuses on analyzing **Chocolate Sales data** using Power BI. The goal is to transform raw sales data into meaningful visual insights that explain performance across different **months, countries, products, and salespersons**. The project highlights how basic Power BI features—such as data import, cleaning, simple measures, and visualization—can support business understanding and decision-making.
+## 📸 Dashboard Preview
 
+![Dashboard Screenshot](Screenshot%202025-11-28%20200042.png)
 🗂️ **1. Dataset Details**
 
 The dataset includes multiple sales-related fields such as:
